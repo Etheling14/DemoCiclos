@@ -1,4 +1,6 @@
 ﻿Console.BackgroundColor = ConsoleColor.Magenta;
+Console.ForegroundColor = ConsoleColor.Yellow;  
+Console.Clear();    
 Console.WriteLine("Numbers");
 int i  = 0;
 Console.Write("n? ");
