@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Numbers");
+﻿Console.BackgroundColor = ConsoleColor.Magenta;
+Console.WriteLine("Numbers");
 int i  = 0;
 Console.Write("n? ");
 int n = (int)Convert.ToInt32(Console.ReadLine());
